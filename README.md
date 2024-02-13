@@ -1,9 +1,9 @@
 <h1>MachineLearning_Step2_Data_Preprocessing</h1>
 
 
-## DATA PREPROCESSING
+# DATA PREPROCESSING
 
-# 1)CATEGORICAL DATAS
+### 1)CATEGORICAL DATAS
 
 1.LabelEncoder
 
