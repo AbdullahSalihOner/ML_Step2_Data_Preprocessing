@@ -3,7 +3,7 @@
 
 # DATA PREPROCESSING
 
-### 1)CATEGORICAL DATAS[Categorical_Datas](1)Categorical_Datas)
+[### 1)CATEGORICAL DATAS](./1)Categorical_Datas)
 
 
 1.LabelEncoder
